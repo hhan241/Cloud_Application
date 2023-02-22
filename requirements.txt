@@ -1,0 +1,4 @@
+Flask==2.2.2
+google-cloud-datastore==2.8.2
+google-auth
+requests_oauthlib
